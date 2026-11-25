@@ -12,9 +12,8 @@ chmod +x t100t-debian13-setup-v2.sh && ./t100t-debian13-setup-v2.sh
 ```
 
 ### Option 2: Download & Run Directly from GitHub
-*(Replace `YOUR-USERNAME` and `YOUR-REPO` with your actual GitHub username and repository name.)*
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/t100t-debian13-setup-v2.sh -o t100t-debian13-setup-v2.sh && chmod +x t100t-debian13-setup-v2.sh && ./t100t-debian13-setup-v2.sh
+curl -fsSL https://github.com/markjustinaculasalen143-alt/INTEL-ASUS-T100TA.git -o t100t-debian13-setup-v2.sh && chmod +x t100t-debian13-setup-v2.sh && ./t100t-debian13-setup-v2.sh
 ```
 
 Press **Enter** when prompted at the end to reboot and apply the new kernel parameter and drivers.
